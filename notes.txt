@@ -1,3 +1,0 @@
-- server address in use issue jan 11, 2018
-  - had to add localhost as the address in server.go func main!
-
